@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SimpleFoldableTextView</string>
+    <string name="poem1">君不见，黄河之水天上来，奔流到海不复回。君不见，高堂明镜悲白发，朝如青丝暮成雪。人生得意须尽欢，莫使金樽空对月。
+　　天生我材必有用，千金散尽还复来。
+　　烹羊宰牛且为乐，会须一饮三百杯。
+　　岑夫子，丹丘生，将进酒，杯莫停。
+　　与君歌一曲，请君为我倾耳听。
+　　钟鼓馔玉不足贵，但愿长醉不复醒。
+　　古来圣贤皆寂寞，惟有饮者留其名。
+　　陈王昔时宴平乐，斗酒十千恣欢谑。
+　　主人何为言少钱，径须沽取对君酌。
+　　五花马、千金裘，呼儿将出换美酒，与尔同销万古愁！</string>
+    <string name="poem2">
+        When you are old and grey and full of sleep,
+And nodding by the fire, take down this book,
+And slowly read, and dream of the soft look,
+Your eyes had once, and of their shadows deep;
+How many loved your moments of glad grace,
+And loved your beauty with love false or true,
+But one man loved the pilgrim soul in you,
+And loved the sorrows of your changing face;
+And bending down beside the glowing bars,
+Murmur, a little sadly, how love fled,
+And paced upon the mountains overhead,
+And hid his face amid a crowd of stars.
+    </string>
+    <string name="poem3">
+        从明天起，做一个幸福的人
+　　喂马，劈柴，周游世界
+　　从明天起，关心粮食和蔬菜
+　　我有一所房子，面朝大海，春暖花开
+　　从明天起，和每一个亲人通信
+　　告诉他们我的幸福
+　　那幸福的闪电告诉我的
+　　我将告诉每一个人
+　　给每一条河每一座山取一个温暖的名字
+　　陌生人，我也为你祝福
+　　愿你有一个灿烂的前程
+　　愿你有情人终成眷属
+　　愿你在尘世获得幸福
+　　我只愿面朝大海，春暖花开
+    </string>
+</resources>

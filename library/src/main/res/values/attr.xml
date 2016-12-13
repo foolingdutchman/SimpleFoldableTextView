@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleFoldableTextView">
+        <attr name="foldHint_text" format="string" />
+        <attr name="foldHint_color" format="color"/>
+        <attr name="foldHint_RelativeSize" format="float" />
+        <attr name="maxLines_onFold" format="integer"/>
+        <attr name="expandHint_text" format="string" />
+        <attr name="expandHint_color" format="color"/>
+        <attr name="expandHint_RelativeSize" format="float" />
+        <attr name="EllipsisHint" format="reference|string" /><!--default is ..-->
+        <attr name="GapToExpandHint" format="reference|string" /><!--gap between "toExpandHint" and "trimmed text"-->
+        <attr name="GapToFoldHint" format="reference|string" /><!--gap between "toFoldHint" and "trimmed text"-->
+        <attr name="EnableToggle" format="reference|boolean" /><!--if toggle the state when click ExpandTextView-->
+        <attr name="ToExpandHintShow" format="reference|boolean" /><!--if show "toExpandHint"-->
+        <attr name="ToFoldHintShow" format="reference|boolean" /><!--if show "toFoldHint"-->
+        <attr name="ToExpandHintColorBgPressed" format="reference|color" /><!--background color if "toExpandHint" pressed-->
+        <attr name="ToFoldHintColorBgPressed" format="reference|color" /><!--background color if "toFoldHint" pressed-->
+        <attr name="InitState" format="enum"><!--init state, default is shrink-->
+            <enum name="shrink" value="0"/>
+            <enum name="expand" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>

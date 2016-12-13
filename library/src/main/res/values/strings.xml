@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleFoldableTextView</string>
+    <string name="to_Fold_hint">收起</string>
+    <string name="to_Expand_hint">展开</string>
+</resources>
